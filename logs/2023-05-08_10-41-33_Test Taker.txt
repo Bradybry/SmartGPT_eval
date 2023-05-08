@@ -1,0 +1,114 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers. C ⊃ (D ∨ C) and C · ~D</question>
+
+<choice_A>Logically equivalent</choice_A>
+<choice_B>Contradictory</choice_B>
+<choice_C>Neither logically equivalent nor contradictory, but consistent</choice_C>
+<choice_D>Inconsistent</choice_D>
+
+<question>Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers. C ⊃ (D ∨ C) and C · ~D</question>
+
+<choice_A>Logically equivalent</choice_A>
+<choice_B>Contradictory</choice_B>
+<choice_C>Neither logically equivalent nor contradictory, but consistent</choice_C>
+<choice_D>Inconsistent</choice_D>
+
+<question>Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers. C ⊃ (D ∨ C) and C · ~D</question>
+
+<choice_A>Logically equivalent</choice_A>
+<choice_B>Contradictory</choice_B>
+<choice_C>Neither logically equivalent nor contradictory, but consistent</choice_C>
+<choice_D>Inconsistent</choice_D>
+
+Responses:
+<reasoning>First, let's create a truth table for both propositions:
+
+C ⊃ (D ∨ C) and C · ~D
+
+There are two variables involved, C and D. So, there will be 2^2 = 4 rows in the truth table.
+
+1. Row 1: C = true , D = true
+    - D ∨ C : since at least one of them is true
+    - ~(D ∨ C): False for this row
+    - So, the first proposition is false because its condition is false
+    
+    In addition:
+    
+    - ~D: false
+2. Row 2: 
+   - Assume that both conditions are met then they are logically equivalent.
+  
+3. Row 3: 
+   - They must be contradictory if their values are different after testing all possibilities 
+
+4.Row 4:
+   Both rows have to add up to give consistent results.
+
+Truth table for each proposition:
+
+C | D │ [(C ⊃ (D ∨ C)] | [C · ~D]
+
+T | T │      F        |     F     
+
+T|F│               \\             %
+
+F|T│              \\            &#%
+
+F| F │\\                        %$
+
+After comparing both columns we learnt that statement A,B,C might hold True following our reasoning above.</reasoning>
+<answer>C</answer>
+
+<reasoning>First, let's analyze the two given propositions:
+
+1. C ⊃ (D ∨ C)
+2. C · ~D
+
+Now, create a truth table for both statements considering all possible combinations of true (T) and false (F):
+
+C | D | D ∨ C | C ⊃ (D ∨ C) | ~D | C · ~D
+------------------------------------------
+T  T   T         T           F    F 
+T  F   T         T           T    T 
+F  T   F         T           F    F
+F  F   L          L            L       L
+
+As we compare the truth values for each proposition corresponding to columns 'C ⊃ (D ∨C)' and 'C ·~ D', we can observe that they are neither identical nor opposite in all cases. Thus they are not logically equivalent or contradictory.
+
+However, there is at least one row where both propositions are true - Row 2 with values (True, False). This indicates that the two statements can simultaneously be true under some conditions, implying their consistency.
+
+So the answer choice is "Neither logically equivalent nor contradictory but consistent".</reasoning>
+<answer>C</answer>
+
+<reasoning>First, let's create a truth table for each proposition:
+
+1. C ⊃ (D ∨ C)
+2. C · ~D
+
+We need to find the truth values for all possibilities of C and D.
+
+C | D | D ∨ C | C ⊃ (D ∨ C) | ~D  |   C · ~D
+T | T |   T   |     T       |  F  |     F
+T │ F │   T   │   　T       │  T　|   　T
+F│ T│   　T    │     T      │ F 　　 |_F_
+F│_F_│ _F_   |_| _T_|_____ _|__ _|L___ _|║╝٭T_
+
+Now that we have the truth tables, let's compare them:
+
+C ⊃ (D ∨ C): TTFT
+C · ~D:        FTFT
+
+They are neither identical nor opposite; therefore, they are not logically equivalent or contradictory.
+
+However, there is at least one row where both propositions are true—specifically when:
+- "C" is True,
+- "D" is False,
+- "C ⊃ (D ∨_C)" is True.
+  and,
+- "._Ⅽ...Not:D_"_.is._.True as well.
+
+Thus, they are consistent.</reasoning>
+<answer>C</answer>
+

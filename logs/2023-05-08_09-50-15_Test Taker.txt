@@ -1,0 +1,44 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the Aardvarks and the Chipmunks win their first games.</question>
+
+<choice_A>The Aardvarks win their first game.</choice_A>
+<choice_B>The Bees don't win their first game.</choice_B>
+<choice_C>The Chipmunks win their first game.</choice_C>
+<choice_D>Both the Aardvarks and the Chipmunks win their first games.</choice_D>
+
+<question>Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the Aardvarks and the Chipmunks win their first games.</question>
+
+<choice_A>The Aardvarks win their first game.</choice_A>
+<choice_B>The Bees don't win their first game.</choice_B>
+<choice_C>The Chipmunks win their first game.</choice_C>
+<choice_D>Both the Aardvarks and the Chipmunks win their first games.</choice_D>
+
+<question>Identify the antecedent of the following conditional proposition: If the Bees don't win their first game, then both the Aardvarks and the Chipmunks win their first games.</question>
+
+<choice_A>The Aardvarks win their first game.</choice_A>
+<choice_B>The Bees don't win their first game.</choice_B>
+<choice_C>The Chipmunks win their first game.</choice_C>
+<choice_D>Both the Aardvarks and the Chipmunks win their first games.</choice_D>
+
+Responses:
+<reasoning>The conditional proposition has the format "If P, then Q." The antecedent is P, the part that comes after "If."</reasoning>
+<answer>B</answer>
+
+<reasoning>In a conditional proposition with the structure "If P, then Q," the antecedent is P. In this case, P is "the Bees don't win their first game." Thus, we can identify that as the antecedent.</reasoning>
+<answer>B</answer>
+
+<reasoning>First, let's identify the conditional proposition format: "If P, then Q." Here, P is the antecedent and Q is the consequent. 
+
+The question states: If the Bees don't win their first game (P), then both the Aardvarks and the Chipmunks win their first games (Q).
+
+Comparing this with our choices:
+A) The Aardvarks win their first game - This is not a complete representation of Q.
+B) The Bees don't win their first game - This matches our P.
+C) The Chipmunks win their first game - This is also not a complete representation of Q.
+D) Both the Aardvarks and the Chipmunks win their first games - This matches our entire Q.
+
+Thus, choice B represents P orthe antecedent in this case.</reasoning>
+<answer>B</answer>
+

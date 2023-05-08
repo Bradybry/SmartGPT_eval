@@ -1,0 +1,48 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.</question>
+
+<choice_A>The Aardvarks do not win their first game.</choice_A>
+<choice_B>The Bees win their first game.</choice_B>
+<choice_C>The Chipmunks do not win their first game.</choice_C>
+<choice_D>Either the Aardvarks or the Chipmunks do not win their first game.</choice_D>
+
+<question>Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.</question>
+
+<choice_A>The Aardvarks do not win their first game.</choice_A>
+<choice_B>The Bees win their first game.</choice_B>
+<choice_C>The Chipmunks do not win their first game.</choice_C>
+<choice_D>Either the Aardvarks or the Chipmunks do not win their first game.</choice_D>
+
+<question>Identify the antecedent of the following conditional proposition: The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game.</question>
+
+<choice_A>The Aardvarks do not win their first game.</choice_A>
+<choice_B>The Bees win their first game.</choice_B>
+<choice_C>The Chipmunks do not win their first game.</choice_C>
+<choice_D>Either the Aardvarks or the Chipmunks do not win their first game.</choice_D>
+
+Responses:
+<reasoning>Let's break down the given conditional proposition. The statement is: "The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game." We can express this as a conditional sentence: "If (A, B) happens, then C happens." In this case, C is "The Bees win their first game," and (A or B) represents the antecedent (the event that needs to happen for C to occur). 
+
+In other words, if either A or B occurs ("Either the Aardvarks do not win their first game" or "The Chipmunks do not win their first game"), then it's necessary that "The Bees win their first game." So, we need to find which choice lists both options as connected events.</reasoning>
+<answer>D</answer>
+
+<reasoning>First, let's analyze the conditional proposition. We are given "The Bees winning their first game is necessary for either the Aardvarks or the Chipmunks not winning their first game." 
+
+A conditional proposition has this structure: If P, then Q.
+Where P is the antecedent and Q is the consequent.
+
+In our case;
+P = The Bees win their first game (necessary condition)
+Q = Either the Aardvarks or the Chipmunks do not win their first game (result)
+
+By rewriting it in a more explicit form,
+If The Bees win their first game, then either the Aardvarks or Chipmunks do not win their first games
+
+So, from this we can identify that our answer should be 'The Bees win their first game'.</reasoning>
+<answer>B</answer>
+
+<reasoning>First, let's identify the conditional proposition which is in the form "if P, then Q." In this case: If the Bees win their first game (P), then either the Aardvarks or the Chipmunks do not win their first game (Q). The antecedent is the 'if' part, which is P.</reasoning>
+<answer>B</answer>
+

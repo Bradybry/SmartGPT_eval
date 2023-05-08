@@ -1,0 +1,56 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)</question>
+
+<choice_A>Utilitarian theory is embarrassed by the possibility of utility monsters.</choice_A>
+<choice_B>A utility monster gets enormous gains in utility.</choice_B>
+<choice_C>A utility monster gets gains in utility greater than the utility lost by the sacrifices of others.</choice_C>
+<choice_D>The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster.</choice_D>
+
+<question>Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)</question>
+
+<choice_A>Utilitarian theory is embarrassed by the possibility of utility monsters.</choice_A>
+<choice_B>A utility monster gets enormous gains in utility.</choice_B>
+<choice_C>A utility monster gets gains in utility greater than the utility lost by the sacrifices of others.</choice_C>
+<choice_D>The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster.</choice_D>
+
+<question>Identify the conclusion of the following argument. Utilitarian theory is embarrassed by the possibility of utility monsters. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster. The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility. (Robert Nozick, Anarchy, State, and Utopia)</question>
+
+<choice_A>Utilitarian theory is embarrassed by the possibility of utility monsters.</choice_A>
+<choice_B>A utility monster gets enormous gains in utility.</choice_B>
+<choice_C>A utility monster gets gains in utility greater than the utility lost by the sacrifices of others.</choice_C>
+<choice_D>The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster.</choice_D>
+
+Responses:
+<reasoning>Let's break down the argument:
+1. Utilitarian theory is embarrassed by the possibility of utility monsters (premise).
+2. A utility monster gets enormous gains in utility (premise).
+3. A utility monster gets gains in utility greater than the utility lost by sacrifices of others (premise).
+4. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster (premise).
+
+The conclusion should capture what all these premises lead to, which is about utilitarian theory and its implication when faced with a Utility Monster.
+
+Given that all admissions point towards the consequence/utility maxim position being difficult to accept when confronted with a Utility Monster, we see that option D best encapsulates this idea as it speaks about how large amounts have been sacrificed for this gain.</reasoning>
+<answer>D</answer>
+
+<reasoning>Let's analyze the question step by step:
+
+1. Utilitarian theory is embarrassed by the possibility of utility monsters.
+2. A utility monster gets enormous gains in utility, greater than the utility lost by the sacrifices of others.
+3. The sacrifices of even large numbers of other people are outweighed by the gains of the utility monster.
+4. The theory seems to require that we all be sacrificed in order to increase total utility.
+
+The conclusion is where these premises lead us, which is statement 4: "The theory seems to require that we all be sacrificed in order to increase total utility." This statement isn't listed as one of our choices.
+
+Amongst given choices:
+A - Is a claim made at beginning, but not a conclusion drawn from it
+B & C - Are just describing attributes about Utility Monsters
+D - Builds up towards understanding what utilitarianism would suggest when it comes to dealing with Utility Monsters
+
+Thus, Choice D appears closest examination and summation from given statements.</reasoning>
+<answer>D</answer>
+
+<reasoning>Let's analyze the argument step by step to identify the conclusion. The first statement talks about how Utilitarian theory is embarrassed by utility monsters, which introduces the topic. Next, we have a definition of what a utility monster is (choice B and C). After that, there's a supporting statement (choice D) related to sacrifices made by others for utility monsters. Finally, we have "The theory seems to require that we all be sacrificed in the monste's maw in order to increase total utility." This last sentence summarizes and concludes the argument.</reasoning>
+<answer>A</answer>
+

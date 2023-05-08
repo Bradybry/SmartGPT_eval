@@ -1,0 +1,91 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y)</question>
+
+<choice_A>(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]</choice_A>
+<choice_B>(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]</choice_B>
+<choice_C>(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]</choice_C>
+<choice_D>(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]}</choice_D>
+
+<question>Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y)</question>
+
+<choice_A>(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]</choice_A>
+<choice_B>(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]</choice_B>
+<choice_C>(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]</choice_C>
+<choice_D>(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]}</choice_D>
+
+<question>Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y)</question>
+
+<choice_A>(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]</choice_A>
+<choice_B>(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]</choice_B>
+<choice_C>(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]</choice_C>
+<choice_D>(∃x)(∃y){[(Ax • Cy) • Py] • Nxy)]}</choice_D>
+
+Responses:
+Let's break down the problem and analyze each choice.
+
+"Some animals are neglected by cruel people."
+
+We need to find a proposition that captures this statement using the predicates given (Ax, Cx, Px, Nxy).
+
+<choice_A>(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]
+This translates to "There exists an x such that x is an animal and x is cruel, and there exists a y such that y is a person and y neglects x." This statement talks about a cruel animal being neglected by people. But we are looking for animals being neglected by cruel people.
+
+<choice_B>(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]
+This translates to "There exists an x such that x is cruel and x is a person, and there exists a y such that y is an animal and x neglects y." This correctly represents our intended meaning: some animals (y) are being neglected (Nxy) by cruel people (who possess both properties Cx - cruelty -  and Px - being human).
+
+<choice_C>(∃x)[(Ax • Px) ∧ (∃y)(Cy ∧ Nxy)]
+This translates to "There exists an x such that it's both an animal(Ax) & person(Px), then for some 'Y', its Cruel(CY),and 'X' neglects Y."
+It's not logical to have X be both `animal` & `person`.
+
+<choice_D>(∃x)(∃y){[(Ax ∙ Cy ) ∙ Py] ∙ Nxy)]}
+This translates tp There exist two entities called X&Y which have these attributes respectively: X=>Animaln Ay; Y =>Cruel>Cuitableutationepredicate_P>,Person>_py>wiile_X_-neglect_Y"_(_n_x_y_)_>.
+We are short of a right delimiter ')' and has unwanted multiplicative dots between the predicates C, P, A . This syntax does not seem correct.
+
+The best translation into predicate logic is:
+
+<reasoning>Choice B correctly represents the statement "Some animals are being neglected by cruel people," as it identifies that there exist an animal y and a person x with the cruel property Cx who neglects the animal y (Nxy).</reasoning>
+<answer>B</answer>
+
+Let's analyze the options step by step.
+
+<choice_A>(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]</choice_A>
+This translates to: There exists an x such that x is an animal and cruel, and there exists a y such that y is a person and y neglects x. This does not match the original statement since it talks about cruel animals instead of cruel people.
+
+<choice_B>(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]</choice_B>
+This translates to: There exists an x such that x is cruel and a person, and there exists a y such that y is an animal and x neglects y. This matches the original statement, as it says some animals are neglected by cruel people.
+
+<choice_C>(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]</choice_C>
+This translates to: There exists an x such that x is an animal and a person, which doesn't make sense given the context of the problem.
+
+<choice_D>(∃x)(∃y){[(Ax • Cy) · Py] · Nxy)]}</choice_D>
+There seems to be mismatched parentheses/brackets in this choice, making it difficult to interpret correctly. 
+
+After analyzing all options, Choice B appears to be correct:
+
+<reasoning>Choice A referred to cruel animals rather than cruel people; choice C had combined humans with animals which doesn't fit our context; choice D had incorrect parenthetical formatting.</reasoning>
+<answer>B</answer>
+
+Let's analyze the choices step by step:
+
+<choice_A>(∃x)[(Ax • Cx) • (∃y)(Py • Nyx)]</choice_A>
+This means "There exists an x such that x is both an animal and cruel and there exists a y, which is a person who neglects x."
+However, this choice does not represent "Some animals are neglected by cruel people" because it states that the animal itself is cruel.
+
+<choice_B>(∃x)[(Cx • Px) • (∃y)(Ay • Nxy)]</choice_B>
+This means "There exists an x such that x is both cruel and a person and there exists a y, which is an animal neglected by x."
+This choice correctly represents "Some animals are neglected by cruel people."
+
+<choice_C>(∃x)[(Ax • Px) • (∃y)(Cy • Nxy)]</choice_C>
+This means "There exists an x such that x is both an animal and a person and there exists a y, which is cruel being neglected by x."
+However, this choice does not represent "Some animals are neglected by cruel people," as it implies the existence of someone being both an animal and human simultaneously.
+
+<choice_D>(∃x)(∃y){[(Ax ∧ Cy) ∧ Py] ∧ Nxy)}]</choice_D>
+This has incorrect syntax or missing parentheses. Even if fixed to: (𝑥)[(A(x)) ∧ (𝑐(x))], it would falsely claim 'cruel' applied to every object. 
+
+Given our analysis, the best translation into predicate logic for "Some animals are neglected by cruel people" will be:
+
+<reasoning>After analyzing each choice, Choice B was found to accurately represent the given statement.</reasoning>
+<answer>B</answer>
+

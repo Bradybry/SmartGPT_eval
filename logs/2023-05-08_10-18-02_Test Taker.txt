@@ -1,0 +1,64 @@
+Expert Name: Test Taker
+
+Requests:
+<question>Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G</question>
+
+<choice_A>E ⊃ F</choice_A>
+<choice_B>F ⊃ G</choice_B>
+<choice_C>G ⊃ E</choice_C>
+<choice_D>~~F</choice_D>
+
+<question>Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G</question>
+
+<choice_A>E ⊃ F</choice_A>
+<choice_B>F ⊃ G</choice_B>
+<choice_C>G ⊃ E</choice_C>
+<choice_D>~~F</choice_D>
+
+<question>Which of the following propositions is an immediate (one-step) consequence in PL of the given premises? E ⊃ ~F ~F ⊃ G ~G</question>
+
+<choice_A>E ⊃ F</choice_A>
+<choice_B>F ⊃ G</choice_B>
+<choice_C>G ⊃ E</choice_C>
+<choice_D>~~F</choice_D>
+
+Responses:
+<reasoning>Given premises: E ⊃ ~F, ~F ⊃ G, and ~G. We need to find the immediate consequence using one-step inference.
+
+A. E ⊃ F
+This contradicts the first premise (E ⊃ ~F), so it cannot be derived in one step.
+
+B. F ⊃ G
+There is no direct link between F and G in the given premises. So this can't be derived in one step.
+
+C. G ⊃ E
+There is no direct link between G and E in the given premises. So this can't be derived in one step.
+
+D. ~~F 
+We know that E implies not-F (E ⊃ ~F). Since there's no information about an alternative condition for having F, we can't derive ~~(Double negation of) F based on current premises.
+</reasoning>
+<answer>None of these choices are correct.</answer>
+
+<reasoning>Let's analyze each proposition:
+A: E ⊃ F doesn't follow directly from any of the given premises, so it's not an immediate consequence.
+B: F ⊃ G looks similar to the second premise ~F ⊃ G but is different and not directly related.
+C: G ⊃ E doesn't follow directly from any of the given premises, so it's not an immediate consequence either.
+D: ~~F is essentially a double negation of F. In classical logic, a double negation can be eliminated. Going back to the second premise ~F ⊃ G since we know that ~G holds true (from third premise), by modus tollens we can conclude that ~~F must also be true because if F was false then G would have been true.
+
+So in this case, D seems like the correct answer.</reasoning>
+<answer>D</answer>
+
+<reasoning>First, let's rewrite the premises using more common logical symbols:
+1. E → ¬F
+2. ¬F → G
+3. ¬G
+
+Now, let's see if any of the choices can be derived in one step from the given premises.
+A) E → F: This is a mistake because it is not what follows directly from any premise and contradicts Premise 1.
+B) F → G: This isn't an immediate consequence since we don't have F in our premises.
+C) G → E: This doesn't follow immediately from our premises either.
+D) ¬¬F: To derive this conclusion, we can apply modus tollens on Premises 2 and 3 (as ¬G implies that ∨F):
+¬(¬F), which simplifies to ¬¬F.</reasoning>
+
+<answer>D</answer>
+
